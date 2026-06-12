@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anantha%20Vishnu&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20%26%20AI%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20NLP&descAlignY=55&descSize=18" />
-</p>
+<div align="center">
+
+# Anantha Vishnu
+
+### Data & AI Analyst &nbsp;|&nbsp; Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; NLP
+
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -252,7 +256,7 @@ Embedded within a cross-functional product and analytics team at a technology so
 | **70% Effort Reduction in Healthcare AI** | AI document processing system slashed manual interpretation time via OCR + NLP + TTS automation |
 | **Academic Excellence** | Graduated BTech CSE with AI with CGPA of 8.00/10 from Jain University, Bengaluru |
 | **NSS Volunteer Leader** | Led community initiatives and social outreach programs under National Service Scheme |
-| **Junior Red Cross Leader** | Organized health awareness campaigns and community health support activities |
+| **Junior Red Cross Leader** | Organised health awareness campaigns and community health support activities |
 | **MBA in Progress** | Pursuing Business Analytics MBA at Amity University — expanding strategic and analytical leadership capabilities |
 
 </div>
@@ -414,8 +418,4 @@ current_focus:
 
 <p align="center">
   <em>"Data is not just numbers — it is the language through which systems reveal their truth."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
