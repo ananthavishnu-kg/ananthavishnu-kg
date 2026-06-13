@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/ananthavishnu" target="_blank">
+  <a href="https://www.linkedin.com/in/anantha-vishnu-a0880321b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -399,7 +399,7 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/ananthavishnu">
+  <a href="https://www.linkedin.com/in/anantha-vishnu-a0880321b/">
     <img src="https://img.shields.io/badge/LinkedIn-Anantha%20Vishnu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
