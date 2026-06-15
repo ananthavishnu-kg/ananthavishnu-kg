@@ -220,7 +220,7 @@ A full-stack café management and intelligence platform that unifies digital ord
 | **Scale** | Multi-item dynamic ordering with full cart and session management |
 | **Performance** | 25% improvement in simulated operational efficiency |
 | **Impact** | End-to-end analytics on customer preferences, top SKUs, and revenue trends |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
 
 </div>
 
