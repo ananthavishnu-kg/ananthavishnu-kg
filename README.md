@@ -436,7 +436,7 @@ current_focus:
     - Business strategy frameworks through MBA coursework
 
   open_to:
-    - Data Analyst / Senior Data Analyst roles
+    - Data Analyst / Business Analyst roles
     - Junior Data Scientist positions
     - Data Engineer positions
     - Business Intelligence Engineer opportunities
