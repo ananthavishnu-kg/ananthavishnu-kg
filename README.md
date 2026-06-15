@@ -2,13 +2,13 @@
 
 # Anantha Vishnu
 
-### Data & AI Analyst &nbsp;|&nbsp; Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; NLP
+### Data & AI Analyst &nbsp;|&nbsp; Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; NLP &nbsp;|&nbsp; Machine Learning
 
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Data+%26+AI+Analyst+%7C+Python+%2B+SQL+%2B+Power+BI;NLP+%7C+Machine+Learning+%7C+EDA+Specialist;Building+Scalable+Data+Pipelines+%26+Dashboards;Transforming+Raw+Data+into+Business+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Data+%26+AI+Analyst+%7C+Python+%2B+SQL+%2B+Power+BI;NLP+%7C+Machine+Learning+%7C+Computer+Vision;Building+Scalable+Data+Pipelines+%26+Dashboards;AI+Systems+%7C+OCR+%7C+Predictive+Analytics;Transforming+Raw+Data+into+Business+Intelligence" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,13 +58,13 @@
 
 I am a **Data & AI Analyst** with hands-on experience in Python, SQL, and end-to-end data analytics — from raw data ingestion to executive-level Power BI dashboards. My engineering foundation in **Computer Science with Artificial Intelligence** enables me to bridge the gap between data infrastructure and intelligent automation.
 
-At **Softloom IT Solutions**, I built production-grade analytics pipelines, processed 50,000+ records with measurable accuracy gains, and reduced manual reporting cycles by 40% through dashboard automation. My work spans **exploratory data analysis**, **NLP-based document processing**, and **full-stack data application development**.
+At **Softloom IT Solutions**, I built production-grade analytics pipelines, processed 50,000+ records with measurable accuracy gains, and reduced manual reporting cycles by 40% through dashboard automation. My work spans **exploratory data analysis**, **NLP-based document processing**, **computer vision**, **machine learning**, and **full-stack data application development**.
 
 I approach every problem with a **product engineering mindset** — obsessed with outcome metrics, scalability, and delivering insights that drive real business decisions. Currently pursuing an **MBA in Business Analytics** at Amity University to sharpen my strategic thinking alongside technical depth.
 
 **Open To:**
 - Data Analyst / Data Engineer roles
-- AI/ML Engineer positions
+- AI/ML Engineer & Junior Data Scientist positions
 - Business Intelligence & Analytics consulting
 - Full-time, contract, or remote-first opportunities
 
@@ -82,36 +82,51 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 </p>
 
 <p align="center">
-  <strong>Frontend & Visualization</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
-  &nbsp;
+  <strong>Data & Visualization</strong><br/><br/>
   <img src="https://img.shields.io/badge/Power%20BI-A855F7?style=flat-square&logo=powerbi&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-7C3AED?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-8B5CF6?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EDA%20%26%20Statistical%20Analysis-A855F7?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Machine Learning & AI</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-8B5CF6?style=flat-square&logo=pytorch&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-A855F7?style=flat-square&logo=opencv&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NLP-6D28D9?style=flat-square&logo=spacy&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-7C3AED?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 <p align="center">
   <strong>Backend & Databases</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=flask,sqlite&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-8B5CF6?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JSON-A855F7?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-A855F7?style=flat-square&logo=fastapi&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JSON-6D28D9?style=flat-square&logo=json&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>Data, AI & Tooling</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode&theme=dark" />
+  <strong>Tools & Environment</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-8B5CF6?style=flat-square&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tkinter-A855F7?style=flat-square&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-6D28D9?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-8B5CF6?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -123,11 +138,13 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
 | **Natural Language Processing** | ⬛⬛⬛⬛⬜ Advanced | Text preprocessing, tokenization, entity extraction, language translation |
-| **Machine Learning Fundamentals** | ⬛⬛⬛⬜⬜ Intermediate | Supervised learning concepts, model evaluation, feature engineering |
+| **Machine Learning** | ⬛⬛⬛⬛⬜ Advanced | Regression, Classification, Clustering, Scikit-learn, RMSE, R² evaluation |
+| **Computer Vision** | ⬛⬛⬛⬜⬜ Intermediate | OpenCV, Image Processing, Pattern Recognition, Gesture Interpretation |
+| **Deep Learning** | ⬛⬛⬛⬜⬜ Intermediate | TensorFlow, PyTorch, CNN fundamentals |
 | **Exploratory Data Analysis** | ⬛⬛⬛⬛⬛ Expert | Statistical analysis, trend identification, anomaly detection, pattern mining |
 | **Data Pipeline Engineering** | ⬛⬛⬛⬛⬜ Advanced | ETL workflows, Python automation, SQL query optimization |
-| **AI Model Integration** | ⬛⬛⬛⬜⬜ Intermediate | API-based AI services, OCR integration, Google TTS, prompt engineering |
 | **Business Intelligence** | ⬛⬛⬛⬛⬛ Expert | KPI dashboarding, Power BI, executive reporting, data storytelling |
+| **AI Model Integration** | ⬛⬛⬛⬜⬜ Intermediate | OCR integration, Google TTS, API-based AI services |
 | **Prompt Engineering** | ⬛⬛⬛⬛⬜ Advanced | LLM interaction design, structured output generation, chain-of-thought prompting |
 
 </div>
@@ -149,14 +166,13 @@ An enterprise-grade, end-to-end data analytics platform engineered to deliver re
 |-----------|---------|
 | **Stack** | Python (Pandas), SQL, Power BI, SQLite |
 | **Scale** | 50,000+ records processed per pipeline run |
-| **Performance** | 40% reduction in manual reporting effort; report prep time cut from 2 days to under 6 hours |
-| **Security** | Structured data isolation; role-based dashboard access |
-| **Impact** | 15% improvement in sales tracking efficiency; executive KPI visibility across all business units |
+| **Performance** | 40% reduction in manual reporting effort; prep time cut from 2 days to under 6 hours |
+| **Impact** | 15% improvement in sales tracking efficiency; KPI visibility across all business units |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
 
 </div>
 
-The system was architected to eliminate bottlenecks in the traditional reporting cycle. SQL joins across normalized schemas prepared structured datasets for downstream analytics. Python-based Pandas workflows handled cleansing, deduplication, and transformation at scale. Power BI was used to construct multi-layered dashboards with drill-down capabilities, trend forecasting visuals, and regional performance heat maps — enabling cross-functional teams to derive actionable insights without requiring technical expertise.
+SQL joins across normalized schemas prepared structured datasets for downstream analytics. Python-based Pandas workflows handled cleansing, deduplication, and transformation at scale. Power BI was used to construct multi-layered dashboards with drill-down capabilities, trend forecasting visuals, and regional performance heat maps — enabling cross-functional teams to derive actionable insights without requiring technical expertise.
 
 <br/>
 </details>
@@ -177,13 +193,12 @@ A production-ready healthcare document intelligence platform that combines OCR, 
 | **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
 | **Scale** | 5,000+ patient records managed and structured |
 | **Performance** | 70% reduction in manual interpretation effort |
-| **Security** | Structured SQLite storage with isolated patient record schemas |
 | **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
 
 </div>
 
-The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level. The Tkinter-based GUI provides an intuitive interface for medical staff to query and manage records with zero coding overhead.
+The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
 
 <br/>
 </details>
@@ -204,13 +219,65 @@ A full-stack café management and intelligence platform that unifies digital ord
 | **Stack** | Flask, SQLite, HTML, CSS, JavaScript, Power BI |
 | **Scale** | Multi-item dynamic ordering with full cart and session management |
 | **Performance** | 25% improvement in simulated operational efficiency |
-| **Security** | Backend session handling; SQL injection-safe parameterized queries |
 | **Impact** | End-to-end analytics on customer preferences, top SKUs, and revenue trends |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
 
 </div>
 
-The platform was built on a Flask backend that handles order routing, database writes, and session persistence across a responsive HTML/CSS/JS frontend. SQLite powers the relational data layer for menu, order, and customer entities. Power BI dashboards were connected to the database to surface real-time analytics — providing a café operator view of product demand, peak hours, and revenue performance. The architecture reflects a complete product engineering lifecycle: from UI design to backend logic to business intelligence output.
+The platform was built on a Flask backend that handles order routing, database writes, and session persistence across a responsive HTML/CSS/JS frontend. SQLite powers the relational data layer for menu, order, and customer entities. Power BI dashboards surface real-time analytics — providing a café operator view of product demand, peak hours, and revenue performance.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>🤖 AI Assistive System for Visually & Speech-Impaired Persons</strong></summary>
+
+<br/>
+
+An accessibility-first AI platform that uses Computer Vision and NLP to interpret gestures and extract text from visual inputs, enabling real-time voice-based interaction for visually and speech-impaired users. Built to demonstrate how AI can bridge communication gaps and improve daily life outcomes.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python, OpenCV, Computer Vision, NLP, Google TTS |
+| **Accuracy** | 85% gesture and text interpretation accuracy |
+| **Impact** | Real-time voice output for accessible communication; reduced dependency on human assistance |
+| **Domain** | Assistive Technology / AI for Social Good |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+
+</div>
+
+The system applies preprocessing and pattern recognition techniques to interpret hand gestures and extract text from images captured via camera input. NLP processes the extracted content for semantic understanding, while Google Text-to-Speech synthesizes natural voice output in real time — creating a complete accessible communication pipeline for users with limited mobility or speech capability.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>📈 Sales Forecasting & KPI Analytics using Machine Learning</strong></summary>
+
+<br/>
+
+A predictive analytics system that applies supervised machine learning to forecast sales performance from historical data — enabling data-driven planning, inventory optimization, and revenue projection. Built end-to-end from data preprocessing through model evaluation and comparison.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python, Scikit-learn, Pandas, NumPy |
+| **Models** | Linear Regression, Random Forest Regressor |
+| **Evaluation** | RMSE and R² scoring for model comparison and selection |
+| **Techniques** | Feature engineering, train-test split, data preprocessing |
+| **Impact** | Reliable sales prediction enabling proactive business planning |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+
+</div>
+
+Historical sales data was preprocessed through cleaning, normalization, and feature engineering to produce model-ready inputs. Multiple regression algorithms were trained and benchmarked using RMSE and R² metrics. The Random Forest model outperformed baseline linear regression — delivering more robust predictions across seasonal and trend-driven sales patterns.
 
 <br/>
 </details>
@@ -254,6 +321,8 @@ Embedded within a cross-functional product and analytics team at a technology so
 | **40% Reporting Efficiency Gain** | Automated Power BI dashboards eliminated manual KPI reporting cycles at Softloom IT Solutions |
 | **30% Data Quality Improvement** | Python-based data cleaning pipeline on 50,000+ records achieved measurable accuracy gains |
 | **70% Effort Reduction in Healthcare AI** | AI document processing system slashed manual interpretation time via OCR + NLP + TTS automation |
+| **85% Accuracy in Computer Vision** | Gesture and text recognition system for visually & speech-impaired users achieved 85% accuracy |
+| **25% Operational Efficiency Gain** | Café ordering platform backend improved simulated order processing efficiency by 25% |
 | **Academic Excellence** | Graduated BTech CSE with AI with CGPA of 8.00/10 from Jain University, Bengaluru |
 | **NSS Volunteer Leader** | Led community initiatives and social outreach programs under National Service Scheme |
 | **Junior Red Cross Leader** | Organised health awareness campaigns and community health support activities |
@@ -267,7 +336,7 @@ Embedded within a cross-functional product and analytics team at a technology so
 
 <p align="center"><strong>Google</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 <p align="center"><strong>Microsoft</strong></p>
@@ -293,6 +362,11 @@ Embedded within a cross-functional product and analytics team at a technology so
 <p align="center"><strong>Amity School of AI</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Amity%20School%20of%20AI-AI%20in%20Finance%20%26%20Risk%20Management-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center"><strong>Corizo</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Corizo-Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
 ---
@@ -344,7 +418,8 @@ Embedded within a cross-functional product and analytics team at a technology so
 ```yaml
 current_focus:
   learning:
-    - Advanced Machine Learning — scikit-learn, XGBoost, model deployment
+    - Advanced Machine Learning — XGBoost, model deployment, MLOps
+    - Deep Learning — CNN, RNN, TensorFlow & PyTorch pipelines
     - Cloud Data Engineering — AWS S3, Glue, Athena, Redshift
     - dbt (data build tool) for analytics engineering
     - Apache Spark fundamentals for large-scale data processing
@@ -353,6 +428,7 @@ current_focus:
     - AI-enhanced analytics dashboards with LLM-driven insight narration
     - Automated ETL pipelines with Python and cloud-native tooling
     - NLP systems for domain-specific document intelligence
+    - Computer Vision pipelines for real-world accessibility applications
 
   exploring:
     - Vector databases and semantic search for AI applications
@@ -361,6 +437,7 @@ current_focus:
 
   open_to:
     - Data Analyst / Senior Data Analyst roles
+    - Junior Data Scientist positions
     - Data Engineer positions
     - Business Intelligence Engineer opportunities
     - AI/ML Analyst roles
