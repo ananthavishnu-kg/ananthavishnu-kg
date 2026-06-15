@@ -296,27 +296,6 @@ Embedded within a cross-functional product and analytics team at a technology so
 </p>
 
 ---
-<!-- <coding profiles> -->
-
-<!-- <p align="center">
-  <a href="https://leetcode.com/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Anantha%20Vishnu-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Anantha%20Vishnu-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Anantha%20Vishnu-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/ananthavishnu-kg" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Anantha%20Vishnu-A855F7?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p> -->
-
----
 
 ## GitHub Analytics
 
