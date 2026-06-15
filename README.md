@@ -296,10 +296,9 @@ Embedded within a cross-functional product and analytics team at a technology so
 </p>
 
 ---
+<!-- <coding profiles> -->
 
-## Coding Profiles
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/ananthavishnu-kg" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Anantha%20Vishnu-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
@@ -315,7 +314,7 @@ Embedded within a cross-functional product and analytics team at a technology so
   <a href="https://www.codechef.com/users/ananthavishnu-kg" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Anantha%20Vishnu-A855F7?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
