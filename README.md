@@ -402,12 +402,15 @@ A business analytics initiative developed during my Data Analyst Internship at S
 
 <details>
 <summary><strong>📈 KPI Reporting Automation — Softloom IT Solutions</strong></summary>
-
-<img
-  src="https://raw.githubusercontent.com/ananthavishnu-kg/ananthavishnu-kg/main/kpi-dashboard.png"
-  alt="KPI Reporting Dashboard"
-  width="900"
-/>
+<br>
+  
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ananthavishnu-kg/ananthavishnu-kg/main/kpi-dashboard.png"
+    alt="KPI Reporting Dashboard"
+    width="900"
+  />
+</p>
 
 <br>
 
