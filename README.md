@@ -305,14 +305,13 @@ An exploratory machine learning project focused on predicting future sales trend
 
 </div>
 
-This experimental ML project explores how machine learning models can be applied to historical sales datasets to identify patterns and estimate future demand. Multiple regression algorithms were trained and evaluated to understand the impact of feature selection, preprocessing techniques, and model complexity on forecasting performance.
+This experimental ML project explores how machine learning models can be applied to historical sales datasets to identify patterns and estimate future demand. Multiple regression algorithms were trained and evaluated to understand the impact of feature selection, preprocessing techniques, and model complexity on forecasting performance.<br>
 
-Key Learnings
-
-Data preprocessing for predictive analytics
-Feature engineering and model preparation
-Regression model evaluation using RMSE and R²
-Comparative analysis of forecasting approaches
+KEY LEARNINGS <br>
+-Data preprocessing for predictive analytics <br>
+-Feature engineering and model preparation <br>
+-Regression model evaluation using RMSE and R² <br>
+-Comparative analysis of forecasting approaches
 
 <br/>
 </details>
