@@ -286,11 +286,11 @@ The system applies preprocessing and pattern recognition techniques to interpret
 ---
 
 <details>
-<summary><strong>📈 Sales Forecasting & KPI Analytics using Machine Learning</strong></summary>
+<summary><strong>📈 Sales Forecasting & Demand Analytics</strong></summary>
 
 <br/>
 
-A predictive analytics system that applies supervised machine learning to forecast sales performance from historical data — enabling data-driven planning, inventory optimization, and revenue projection. Built end-to-end from data preprocessing through model evaluation and comparison.
+An exploratory machine learning project focused on predicting future sales trends using historical business data. The project investigates data preprocessing, feature engineering, regression modeling, and performance evaluation techniques commonly used in business forecasting workflows.
 
 <div align="center">
 
@@ -299,13 +299,20 @@ A predictive analytics system that applies supervised machine learning to foreca
 | **Stack** | Python, Scikit-learn, Pandas, NumPy |
 | **Models** | Linear Regression, Random Forest Regressor |
 | **Evaluation** | RMSE and R² scoring for model comparison and selection |
-| **Techniques** | Feature engineering, train-test split, data preprocessing |
+| **Techniques** | Data Cleaning, Feature Engineering, Model Comparison |
 | **Impact** | Reliable sales prediction enabling proactive business planning |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
 
 </div>
 
-Historical sales data was preprocessed through cleaning, normalization, and feature engineering to produce model-ready inputs. Multiple regression algorithms were trained and benchmarked using RMSE and R² metrics. The Random Forest model outperformed baseline linear regression — delivering more robust predictions across seasonal and trend-driven sales patterns.
+This experimental ML project explores how machine learning models can be applied to historical sales datasets to identify patterns and estimate future demand. Multiple regression algorithms were trained and evaluated to understand the impact of feature selection, preprocessing techniques, and model complexity on forecasting performance.
+
+Key Learnings
+
+Data preprocessing for predictive analytics
+Feature engineering and model preparation
+Regression model evaluation using RMSE and R²
+Comparative analysis of forecasting approaches
 
 <br/>
 </details>
