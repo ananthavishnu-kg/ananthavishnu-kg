@@ -406,6 +406,94 @@ AI / ML Engineer Intern at Corizo, Bengaluru, India (January 2024 – July 2024)
   <img src="https://img.shields.io/badge/MLflow-A855F7?style=flat-square&logo=MLflow&logoColor=white" />
 </p>
   
+---
+
+## Case Study
+### Overview
+
+A business analytics initiative developed during my Data Analyst Internship at Softloom IT Solutions to automate KPI reporting, improve data quality, and enhance operational visibility through interactive dashboards and automated reporting workflows.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| Organization | Softloom IT Solutions |
+| Role | Data Analyst Intern |
+| Stack | Python, SQL, Power BI, Pandas, NumPy |
+| Data Volume | 50,000+ Records |
+| Reporting Impact | 40% Reduction in Manual Effort |
+| Efficiency Gain | Reporting Time Reduced from 2 Days to Under 6 Hours |
+
+</div>
+
+<details>
+<summary><strong>📈 KPI Reporting Automation — Softloom IT Solutions</strong></summary>
+### Dashboard Snapshot
+
+<p align="center">
+  <img src="images/kpi-dashboard.png" width="900"/>
+</p>
+
+<br>
+
+### Business Problem
+
+Business reporting relied heavily on manual spreadsheet consolidation and repetitive data preparation processes. KPI reports required significant manual effort, resulting in delayed reporting cycles and inconsistent reporting structures.
+
+#### Challenges
+
+- Time-consuming report preparation
+- Manual KPI tracking workflows
+- Data quality inconsistencies
+- Limited visibility into operational performance
+
+### Solution
+
+#### Data Processing & Automation
+
+- Extracted and joined datasets using SQL
+- Cleaned, validated, and transformed 50,000+ records using Python (Pandas, NumPy)
+- Standardized reporting structures across business units
+- Automated repetitive reporting workflows
+
+#### Dashboard Development
+
+- Built 6+ interactive Power BI dashboards
+- Implemented KPI tracking and trend analysis
+- Developed drill-down reporting capabilities
+- Created self-service dashboards for stakeholders
+
+#### Stakeholder Collaboration
+
+- Gathered reporting requirements from business teams
+- Defined KPI metrics and reporting objectives
+- Delivered actionable insights through visualization and analytics
+
+### Tools Used
+
+<p>
+  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-8B5CF6?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-A855F7?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+### Results
+
+| Metric | Outcome |
+|----------|----------|
+| Records Processed | 50,000+ |
+| Manual Reporting Effort | Reduced by 40% |
+| Report Preparation Time | Reduced from 2 Days to Under 6 Hours |
+| Data Accuracy | Improved by 30% |
+| Sales Tracking Efficiency | Improved by 15% |
+
+### Business Impact
+
+The solution transformed a manual reporting workflow into an automated analytics process, improving reporting efficiency, increasing data accuracy, and providing stakeholders with faster access to actionable business insights.
+
+</details>
 
 ---
 
