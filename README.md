@@ -154,25 +154,53 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 ## Featured Projects
 
 <details>
-<summary><strong>📊 Business Analytics & KPI Intelligence System</strong></summary>
+<summary><strong>☕ Koffinoor — Café Ordering & Analytics Platform</strong></summary>
 
 <br/>
 
-An enterprise-grade, end-to-end data analytics platform engineered to deliver real-time business intelligence through automated pipelines and interactive dashboards. The system ingests raw operational data, applies structured transformation logic, and surfaces KPIs that empower leadership-level decision-making across revenue, product, and regional dimensions.
+A full-stack café management and intelligence platform that unifies digital ordering, backend inventory processing, and business analytics into a single integrated system. Built to simulate a production café environment with real-time order handling, cart management, and Power BI-driven sales intelligence.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Python (Pandas), SQL, Power BI, SQLite |
-| **Scale** | 50,000+ records processed per pipeline run |
-| **Performance** | 40% reduction in manual reporting effort; prep time cut from 2 days to under 6 hours |
-| **Impact** | 15% improvement in sales tracking efficiency; KPI visibility across all business units |
+| **Stack** | Flask, SQLite, HTML, CSS, JavaScript, Power BI |
+| **Scale** | Multi-item dynamic ordering with full cart and session management |
+| **Performance** | 25% improvement in simulated operational efficiency |
+| **Impact** | End-to-end analytics on customer preferences, top SKUs, and revenue trends |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
+
+</div>
+
+The platform was built on a Flask backend that handles order routing, database writes, and session persistence across a responsive HTML/CSS/JS frontend. SQLite powers the relational data layer for menu, order, and customer entities. Power BI dashboards surface real-time analytics — providing a café operator view of product demand, peak hours, and revenue performance.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>📊 DataLens AI — Interactive Data Analysis & Insight Generation Platform</strong></summary>
+
+<br/>
+
+An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built to simulate a modern analyst workflow by combining data exploration, dashboard generation, insight discovery, and executive reporting within a single platform.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Streamlit, Python, Pandas, NumPy, Plotly, SQLite, Groq AI (Optional) |
+| **Scale** | Supports large structured datasets with automated profiling, cleaning, and analytics workflows |
+| **Performance** | Reduces manual exploratory analysis and reporting effort by up to 80% through automation |
+| **Impact** | Enables users to uncover trends, detect anomalies, generate insights, and interact with data using natural language |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
 
 </div>
 
-SQL joins across normalized schemas prepared structured datasets for downstream analytics. Python-based Pandas workflows handled cleansing, deduplication, and transformation at scale. Power BI was used to construct multi-layered dashboards with drill-down capabilities, trend forecasting visuals, and regional performance heat maps — enabling cross-functional teams to derive actionable insights without requiring technical expertise.
+The platform is built on a modular Streamlit architecture that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive user interface. Pandas and NumPy power high-performance data processing, while Plotly delivers interactive dashboards and advanced visual analytics. A built-in analytics engine automatically identifies trends, correlations, outliers, and key business drivers, generating meaningful insights without requiring manual analysis.
+
+An optional Groq-powered Data Analyst Assistant allows users to ask natural language questions about uploaded datasets, providing contextual explanations, recommendations, and executive-level summaries. The platform also includes automated report generation capabilities, enabling users to export professional analytical reports for decision-making and stakeholder communication.
 
 <br/>
 </details>
@@ -206,25 +234,25 @@ The system leverages Tesseract OCR to extract raw text from scanned healthcare d
 ---
 
 <details>
-<summary><strong>☕ Koffinoor — Café Ordering & Analytics Platform</strong></summary>
+<summary><strong>🧠 AI Career Intelligence Platform</strong></summary>
 
 <br/>
 
-A full-stack café management and intelligence platform that unifies digital ordering, backend inventory processing, and business analytics into a single integrated system. Built to simulate a production café environment with real-time order handling, cart management, and Power BI-driven sales intelligence.
+An AI-powered career analytics and workforce intelligence platform that combines job market analysis, skill-gap detection, salary intelligence, and career path recommendations into a unified decision-support system. Built to simulate a modern workforce analytics environment using large-scale job market datasets, predictive modeling, and interactive dashboards.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Flask, SQLite, HTML, CSS, JavaScript, Power BI |
-| **Scale** | Multi-item dynamic ordering with full cart and session management |
-| **Performance** | 25% improvement in simulated operational efficiency |
-| **Impact** | End-to-end analytics on customer preferences, top SKUs, and revenue trends |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
+| **Stack** | Flask, PySpark, SQLite, Pandas, Scikit-Learn, HTML, CSS, JavaScript, Chart.js |
+| **Scale** | Multi-dimensional analysis across job roles, industries, skills, locations, and salary datasets |
+| **Performance** | Automated processing and analysis of thousands of job market records in real time |
+| **Impact** | Provides actionable career insights, skill-gap analysis, salary intelligence, and workforce trend forecasting |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
 
 </div>
 
-The platform was built on a Flask backend that handles order routing, database writes, and session persistence across a responsive HTML/CSS/JS frontend. SQLite powers the relational data layer for menu, order, and customer entities. Power BI dashboards surface real-time analytics — providing a café operator view of product demand, peak hours, and revenue performance.
+The platform is built on a Flask and PySpark analytics engine that processes large-scale AI and technology job market datasets, transforming raw workforce data into meaningful career intelligence. PySpark handles scalable data processing while Scikit-Learn powers predictive models for salary estimation and workforce trend analysis. Interactive dashboards built with Chart.js provide real-time visibility into hiring demand, salary benchmarks, automation risk, skill trends, and geographic opportunities. The system enables users to evaluate career readiness, identify high-demand skills, understand market dynamics, and make data-driven career decisions through a centralized analytics interface.
 
 <br/>
 </details>
@@ -278,6 +306,32 @@ A predictive analytics system that applies supervised machine learning to foreca
 </div>
 
 Historical sales data was preprocessed through cleaning, normalization, and feature engineering to produce model-ready inputs. Multiple regression algorithms were trained and benchmarked using RMSE and R² metrics. The Random Forest model outperformed baseline linear regression — delivering more robust predictions across seasonal and trend-driven sales patterns.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>📊 Business Analytics & KPI Intelligence System</strong></summary>
+
+<br/>
+
+An enterprise-grade, end-to-end data analytics platform engineered to deliver real-time business intelligence through automated pipelines and interactive dashboards. The system ingests raw operational data, applies structured transformation logic, and surfaces KPIs that empower leadership-level decision-making across revenue, product, and regional dimensions.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python (Pandas), SQL, Power BI, SQLite |
+| **Scale** | 50,000+ records processed per pipeline run |
+| **Performance** | 40% reduction in manual reporting effort; prep time cut from 2 days to under 6 hours |
+| **Impact** | 15% improvement in sales tracking efficiency; KPI visibility across all business units |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+
+</div>
+
+SQL joins across normalized schemas prepared structured datasets for downstream analytics. Python-based Pandas workflows handled cleansing, deduplication, and transformation at scale. Power BI was used to construct multi-layered dashboards with drill-down capabilities, trend forecasting visuals, and regional performance heat maps — enabling cross-functional teams to derive actionable insights without requiring technical expertise.
 
 <br/>
 </details>
