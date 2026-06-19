@@ -431,55 +431,82 @@ AI / ML Engineer Intern at Corizo, Bengaluru, India (January 2024 – July 2024)
 
 ## Certifications
 
-<p align="center"><strong>Google</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center">
 
-<p align="center"><strong>Microsoft</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-7C3AED?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
-</p>
+<strong>Google</strong><br>
+<img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
 
-<p align="center"><strong>Keltron</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Keltron-Data%20Analytics%20with%20AI-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+</td>
+<td align="center">
 
-<p align="center"><strong>Softloom IT Solutions</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Softloom-Big%20Data%20Analytics%20%26%20Cloud%20Computing-A855F7?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
+<strong>Microsoft</strong><br>
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-7C3AED?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
 
-<p align="center"><strong>Udemy</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Udemy-Python%20Programming-6D28D9?style=for-the-badge&logo=udemy&logoColor=white" />
-</p>
+</td>
+</tr>
 
-<p align="center"><strong>Amity School of AI</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amity%20School%20of%20AI-AI%20in%20Finance%20%26%20Risk%20Management-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<tr>
+<td align="center">
 
-<p align="center"><strong>Corizo</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Corizo-Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
-</p>
+<strong>Amity School of AI</strong><br>
+<img src="https://img.shields.io/badge/Amity%20School%20of%20AI-AI%20in%20Finance%20%26%20Risk%20Management-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
-<p align="center"><strong>FinVeda</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FinVeda-Financial%20Data Analytics & Bank Competency-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</td>
+<td align="center">
 
-<p align="center"><strong>Nvidea</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Nvidea-GTC%20Participation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<strong>Softloom IT Solutions</strong><br>
+<img src="https://img.shields.io/badge/Softloom-Big%20Data%20Analytics%20%26%20Cloud%20Computing-A855F7?style=for-the-badge&logo=apachespark&logoColor=white" />
 
-<p align="center"><strong>Oneroadmap</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oneroadmap-Data analyst-7C3AED?style=for-the-badge&logo=chart-bar&logoColor=white" />
-</p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>Keltron</strong><br>
+<img src="https://img.shields.io/badge/Keltron-Data%20Analytics%20with%20AI-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</td>
+<td align="center">
+
+<strong>Corizo</strong><br>
+<img src="https://img.shields.io/badge/Corizo-Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>FinVeda</strong><br>
+<img src="https://img.shields.io/badge/FinVeda-Financial%20Data%20Analytics%20%26%20Bank%20Competency-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+
+</td>
+<td align="center">
+
+<strong>Udemy</strong><br>
+<img src="https://img.shields.io/badge/Udemy-Python%20Programming-6D28D9?style=for-the-badge&logo=udemy&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>NVIDIA</strong><br>
+<img src="https://img.shields.io/badge/NVIDIA-GTC%20Participation-7C3AED?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+</td>
+<td align="center">
+
+<strong>OneRoadmap</strong><br>
+<img src="https://img.shields.io/badge/OneRoadmap-Data%20Analyst-7C3AED?style=for-the-badge&logo=chart-bar&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
