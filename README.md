@@ -309,6 +309,49 @@ Embedded within a cross-functional product and analytics team at a technology so
   <img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Pipelines-8B5CF6?style=flat-square&logoColor=white" />
 </p>
+<br>
+
+### Freelance Full Stack Developer — Self-Employed
+
+**📍 Remote, India**
+
+Freelance Full Stack Developer (January 2026 – Present)
+
+* Designed and developed custom websites and web applications for clients using HTML, CSS, JavaScript, React, Django, Flask, and WordPress
+* Built responsive business websites, landing pages, portfolio platforms, and dynamic web solutions tailored to client requirements
+* Implemented database integration, REST APIs, authentication systems, and performance optimization techniques to enhance functionality and user experience
+* Collaborated directly with clients throughout requirement gathering, development, deployment, and post-launch support
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-7C3AED?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-A855F7?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-6D28D9?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-7C3AED?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-8B5CF6?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-A855F7?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white" />
+</p>
+<br>
+
+### AI / ML Engineer Intern — Corizo
+**📍 Bangalore, India**
+
+AI / ML Engineer Intern at Corizo, Bengaluru, India (January 2024 – July 2024)
+
+- Built Cardiovascular Disease Prediction Model using TensorFlow and Scikit-learn with ensemble classifiers and MLflow experiment tracking
+- Gained hands-on experience in Python, ML frameworks, and iterative AI model development workflows
+- Trained computer vision models including YOLOv10 and SegFormer for object detection and semantic segmentation
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-6D28D9?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-Learn-8B5CF6?style=flat-square&logo=Scikit-Learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-A855F7?style=flat-square&logo=MLflow&logoColor=white" />
+</p>
+  
 
 ---
 
