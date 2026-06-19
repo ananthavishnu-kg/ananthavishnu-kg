@@ -497,14 +497,6 @@ AI / ML Engineer Intern at Corizo, Bengaluru, India (January 2024 – July 2024)
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthavishnu-kg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
