@@ -393,19 +393,6 @@ AI / ML Engineer Intern at Corizo, Bengaluru, India (January 2024 – July 2024)
 
 A business analytics initiative developed during my Data Analyst Internship at Softloom IT Solutions to automate KPI reporting, improve data quality, and enhance operational visibility through interactive dashboards and automated reporting workflows.
 
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| Organization | Softloom IT Solutions |
-| Role | Data Analyst Intern |
-| Stack | Python, SQL, Power BI, Pandas, NumPy |
-| Data Volume | 50,000+ Records |
-| Reporting Impact | 40% Reduction in Manual Effort |
-| Efficiency Gain | Reporting Time Reduced from 2 Days to Under 6 Hours |
-
-</div>
-
 <details>
 <summary><strong>📈 KPI Reporting Automation — Softloom IT Solutions</strong></summary>
 <br>
@@ -478,6 +465,19 @@ Business reporting relied heavily on manual spreadsheet consolidation and repeti
 The solution transformed a manual reporting workflow into an automated analytics process, improving reporting efficiency, increasing data accuracy, and providing stakeholders with faster access to actionable business insights.
 
 </details>
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| Organization | Softloom IT Solutions |
+| Role | Data Analyst Intern |
+| Stack | Python, SQL, Power BI, Pandas, NumPy |
+| Data Volume | 50,000+ Records |
+| Reporting Impact | 40% Reduction in Manual Effort |
+| Efficiency Gain | Reporting Time Reduced from 2 Days to Under 6 Hours |
+
+</div>
 
 ---
 
