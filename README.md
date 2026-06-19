@@ -138,12 +138,12 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
 | **Natural Language Processing** | ⬛⬛⬛⬛⬜ Advanced | Text preprocessing, tokenization, entity extraction, language translation |
-| **Machine Learning** | ⬛⬛⬛⬛⬜ Advanced | Regression, Classification, Clustering, Scikit-learn, RMSE, R² evaluation |
+| **Machine Learning** | ⬛⬛⬛⬜⬜ Intermediate | Regression, Classification, Clustering, Scikit-learn, RMSE, R² evaluation |
 | **Computer Vision** | ⬛⬛⬛⬜⬜ Intermediate | OpenCV, Image Processing, Pattern Recognition, Gesture Interpretation |
 | **Deep Learning** | ⬛⬛⬛⬜⬜ Intermediate | TensorFlow, PyTorch, CNN fundamentals |
-| **Exploratory Data Analysis** | ⬛⬛⬛⬛⬛ Expert | Statistical analysis, trend identification, anomaly detection, pattern mining |
+| **Exploratory Data Analysis** | ⬛⬛⬛⬛⬜ Advanced | Statistical analysis, trend identification, anomaly detection, pattern mining |
 | **Data Pipeline Engineering** | ⬛⬛⬛⬛⬜ Advanced | ETL workflows, Python automation, SQL query optimization |
-| **Business Intelligence** | ⬛⬛⬛⬛⬛ Expert | KPI dashboarding, Power BI, executive reporting, data storytelling |
+| **Business Intelligence** | ⬛⬛⬛⬛⬜ Advanced | KPI dashboarding, Power BI, executive reporting, data storytelling |
 | **AI Model Integration** | ⬛⬛⬛⬜⬜ Intermediate | OCR integration, Google TTS, API-based AI services |
 | **Prompt Engineering** | ⬛⬛⬛⬛⬜ Advanced | LLM interaction design, structured output generation, chain-of-thought prompting |
 
