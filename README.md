@@ -369,6 +369,21 @@ Embedded within a cross-functional product and analytics team at a technology so
   <img src="https://img.shields.io/badge/Corizo-Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
+<p align="center"><strong>FinVeda</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FinVeda-Financial%20Data Analytics & Bank Competency-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center"><strong>Nvidea</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Nvidea-GTC%20Participation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center"><strong>Oneroadmap</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oneroadmap-Data analyst-7C3AED?style=for-the-badge&logo=chart-bar&logoColor=white" />
+</p>
+
 ---
 
 ## GitHub Analytics
