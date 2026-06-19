@@ -158,21 +158,21 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 
 <br/>
 
-A full-stack café management and intelligence platform that unifies digital ordering, backend inventory processing, and business analytics into a single integrated system. Built to simulate a production café environment with real-time order handling, cart management, and Power BI-driven sales intelligence.
+A full-stack café management application designed to simulate real-world café operations through digital ordering, cart management, inventory tracking, and business analytics. The platform combines customer-facing ordering workflows with backend reporting to provide insights into sales performance and product demand.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Flask, SQLite, HTML, CSS, JavaScript, Power BI |
-| **Scale** | Multi-item dynamic ordering with full cart and session management |
-| **Performance** | 25% improvement in simulated operational efficiency |
-| **Impact** | End-to-end analytics on customer preferences, top SKUs, and revenue trends |
+| **Feature** | Menu Management, Cart System, Order Processing, Customer Reviews |
+| **Analytics** | Sales Trends, Product Performance, Customer Ordering Patterns |
+| **Database** | SQLite Relational Database |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
 
 </div>
 
-The platform was built on a Flask backend that handles order routing, database writes, and session persistence across a responsive HTML/CSS/JS frontend. SQLite powers the relational data layer for menu, order, and customer entities. Power BI dashboards surface real-time analytics — providing a café operator view of product demand, peak hours, and revenue performance.
+The application is built on a Flask backend that manages order processing, session handling, and database operations through a responsive web interface. SQLite serves as the data layer for menu, order, and customer information, while Power BI dashboards provide visibility into revenue trends, popular products, peak ordering periods, and customer behavior. The project demonstrates full-stack application development combined with practical business analytics and reporting capabilities.
 
 <br/>
 </details>
