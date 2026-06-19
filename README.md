@@ -312,32 +312,6 @@ Historical sales data was preprocessed through cleaning, normalization, and feat
 
 ---
 
-<details>
-<summary><strong>📊 Business Analytics & KPI Intelligence System</strong></summary>
-
-<br/>
-
-An enterprise-grade, end-to-end data analytics platform engineered to deliver real-time business intelligence through automated pipelines and interactive dashboards. The system ingests raw operational data, applies structured transformation logic, and surfaces KPIs that empower leadership-level decision-making across revenue, product, and regional dimensions.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python (Pandas), SQL, Power BI, SQLite |
-| **Scale** | 50,000+ records processed per pipeline run |
-| **Performance** | 40% reduction in manual reporting effort; prep time cut from 2 days to under 6 hours |
-| **Impact** | 15% improvement in sales tracking efficiency; KPI visibility across all business units |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
-
-</div>
-
-SQL joins across normalized schemas prepared structured datasets for downstream analytics. Python-based Pandas workflows handled cleansing, deduplication, and transformation at scale. Power BI was used to construct multi-layered dashboards with drill-down capabilities, trend forecasting visuals, and regional performance heat maps — enabling cross-functional teams to derive actionable insights without requiring technical expertise.
-
-<br/>
-</details>
-
----
-
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/10%2F2024%20%E2%80%93%2010%2F2025-6D28D9?style=flat-square&logoColor=white" />
