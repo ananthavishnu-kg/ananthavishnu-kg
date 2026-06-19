@@ -405,7 +405,7 @@ A business analytics initiative developed during my Data Analyst Internship at S
 ### Dashboard Snapshot
 
 <p align="center">
-  <img src="images/kpi-dashboard.png" width="900"/>
+  <img src="https://github.com/ananthavishnu-kg/ananthavishnu-kg/blob/main/kpi-dashboard.png?raw=true" width="900"/>
 </p>
 
 <br>
