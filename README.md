@@ -58,7 +58,7 @@
 
 I am a **Data & AI Analyst** with hands-on experience in Python, SQL, and end-to-end data analytics — from raw data ingestion to executive-level Power BI dashboards. My engineering foundation in **Computer Science with Artificial Intelligence** enables me to bridge the gap between data infrastructure and intelligent automation.
 
-At **Softloom IT Solutions**, I built production-grade analytics pipelines, processed 50,000+ records with measurable accuracy gains, and reduced manual reporting cycles by 40% through dashboard automation. My work spans **exploratory data analysis**, **NLP-based document processing**, **computer vision**, **machine learning**, and **full-stack data application development**.
+At **Softloom IT Solutions**, I built production-grade analytics pipelines, processed 50,000+ records with measurable accuracy gains, and reduced manual reporting cycles by 40% through dashboard automation. My work spans **exploratory data analysis**, **NLP-based document processing**, **computer vision**, **machine learning**, **AI agent development**, and **full-stack data application development**.
 
 I approach every problem with a **product engineering mindset** — obsessed with outcome metrics, scalability, and delivering insights that drive real business decisions. Currently pursuing an **MBA in Business Analytics** at Amity University to sharpen my strategic thinking alongside technical depth.
 
@@ -91,7 +91,9 @@ I approach every problem with a **product engineering mindset** — obsessed wit
   &nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Excel-8B5CF6?style=flat-square&logo=microsoftexcel&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/EDA%20%26%20Statistical%20Analysis-A855F7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-A855F7?style=flat-square&logo=plotly&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EDA%20%26%20Statistical%20Analysis-6D28D9?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
@@ -107,11 +109,17 @@ I approach every problem with a **product engineering mindset** — obsessed wit
   <img src="https://img.shields.io/badge/NLP-6D28D9?style=flat-square&logo=spacy&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Tesseract%20OCR-7C3AED?style=flat-square&logo=google&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Groq%20%28Llama%203.3%2070B%29-F55036?style=flat-square&logo=groq&logoColor=white" />
 </p>
 
 <p align="center">
   <strong>Backend & Databases</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=flask,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,django,sqlite&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/ETL%20Pipelines-8B5CF6?style=flat-square&logoColor=white" />
   &nbsp;
@@ -144,6 +152,7 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 | **Exploratory Data Analysis** | ⬛⬛⬛⬛⬜ Advanced | Statistical analysis, trend identification, anomaly detection, pattern mining |
 | **Data Pipeline Engineering** | ⬛⬛⬛⬛⬜ Advanced | ETL workflows, Python automation, SQL query optimization |
 | **Business Intelligence** | ⬛⬛⬛⬛⬜ Advanced | KPI dashboarding, Power BI, executive reporting, data storytelling |
+| **AI Agent Development** | ⬛⬛⬛⬜⬜ Intermediate | LangChain tool-calling agents, Groq-hosted LLMs, confirmation-gated automation |
 | **AI Model Integration** | ⬛⬛⬛⬜⬜ Intermediate | OCR integration, Google TTS, API-based AI services |
 | **Prompt Engineering** | ⬛⬛⬛⬛⬜ Advanced | LLM interaction design, structured output generation, chain-of-thought prompting |
 
@@ -152,6 +161,33 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 ---
 
 ## Featured Projects
+
+<details>
+<summary><strong>🏢 Synapse ERP — AI-Powered ERP Assistant</strong></summary>
+
+<br/>
+
+A conversational Enterprise Resource Planning assistant that lets users manage vendors and purchase orders in plain English instead of forms and clicks. Powered by Groq's Llama 3.3 70B model through a LangChain tool-calling agent, the assistant reasons through multi-step tasks and always asks for explicit confirmation before executing any write action — approvals, rejections, or new purchase orders.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | FastAPI, LangChain, LangGraph, Groq (Llama 3.3 70B), HTML5, CSS3, JavaScript |
+| **Feature** | Natural-language PO creation/approval/rejection, vendor search & creation, live spend metrics, confirmation gate on all write actions |
+| **Architecture** | FastAPI REST layer → LangChain agent → ERP tool layer (mock in-memory backend, swappable for SAP CAP) |
+| **UI** | Dashboard with real-time search/filter, toast notifications, dark/light theme |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Synapse-ERP-AI-Agent) |
+| **Live Demo** | [Try it here](https://synapse-erp-ai-agent.onrender.com) |
+
+</div>
+
+The FastAPI backend exposes chat and state endpoints and serves the static dashboard, while a LangChain agent ("Aria") interprets natural-language requests and calls a dedicated ERP tool layer for vendor and purchase-order operations. Every write action is staged and requires user confirmation before it executes, giving the system an explicit human-in-the-loop safety gate. The tool layer is intentionally decoupled from the mock in-memory backend so it can be repointed at a real SAP CAP system.
+
+<br/>
+</details>
+
+---
 
 <details>
 <summary><strong>☕ Koffinoor — Café Ordering & Analytics Platform</strong></summary>
@@ -164,7 +200,7 @@ A full-stack café management application designed to simulate real-world café 
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Flask, SQLite, HTML, CSS, JavaScript, Power BI |
+| **Stack** | Django, SQLite, HTML, CSS, JavaScript, Power BI |
 | **Feature** | Menu Management, Cart System, Order Processing, Customer Reviews |
 | **Analytics** | Sales Trends, Product Performance, Customer Ordering Patterns |
 | **Database** | SQLite Relational Database |
@@ -172,7 +208,7 @@ A full-stack café management application designed to simulate real-world café 
 
 </div>
 
-The application is built on a Flask backend that manages order processing, session handling, and database operations through a responsive web interface. SQLite serves as the data layer for menu, order, and customer information, while Power BI dashboards provide visibility into revenue trends, popular products, peak ordering periods, and customer behavior. The project demonstrates full-stack application development combined with practical business analytics and reporting capabilities.
+The application is built on a Django backend that manages order processing, session handling, and database operations through a responsive web interface. SQLite serves as the data layer for menu, order, and customer information, while Power BI dashboards provide visibility into revenue trends, popular products, peak ordering periods, and customer behavior. The project demonstrates full-stack application development combined with practical business analytics and reporting capabilities.
 
 <br/>
 </details>
@@ -184,23 +220,23 @@ The application is built on a Flask backend that manages order processing, sessi
 
 <br/>
 
-An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built to simulate a modern analyst workflow by combining data exploration, dashboard generation, insight discovery, and executive reporting within a single platform.
+An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built around a 7-step workflow — Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → PDF Report — that mirrors a modern analyst's process end to end.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Streamlit, Python, Pandas, NumPy, Plotly, SQLite, Groq AI (Optional) |
+| **Stack** | Streamlit, Python, Pandas, NumPy, Plotly, ReportLab, SQLite, Groq (Llama 3.3 70B) |
 | **Scale** | Supports large structured datasets with automated profiling, cleaning, and analytics workflows |
 | **Performance** | Reduces manual exploratory analysis and reporting effort by up to 80% through automation |
 | **Impact** | Enables users to uncover trends, detect anomalies, generate insights, and interact with data using natural language |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/DataLens_AI) |
 
 </div>
 
 The platform is built on a modular Streamlit architecture that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive user interface. Pandas and NumPy power high-performance data processing, while Plotly delivers interactive dashboards and advanced visual analytics. A built-in analytics engine automatically identifies trends, correlations, outliers, and key business drivers, generating meaningful insights without requiring manual analysis.
 
-An optional Groq-powered Data Analyst Assistant allows users to ask natural language questions about uploaded datasets, providing contextual explanations, recommendations, and executive-level summaries. The platform also includes automated report generation capabilities, enabling users to export professional analytical reports for decision-making and stakeholder communication.
+A Groq-powered (Llama 3.3 70B) Data Analyst Assistant allows users to ask natural language questions about uploaded datasets, providing contextual explanations, recommendations, and executive-level summaries. The platform also uses ReportLab to generate professional, exportable PDF reports for decision-making and stakeholder communication.
 
 <br/>
 </details>
@@ -238,21 +274,21 @@ The system leverages Tesseract OCR to extract raw text from scanned healthcare d
 
 <br/>
 
-An AI-powered career analytics and workforce intelligence platform that combines job market analysis, skill-gap detection, salary intelligence, and career path recommendations into a unified decision-support system. Built to simulate a modern workforce analytics environment using large-scale job market datasets, predictive modeling, and interactive dashboards.
+A fully client-side career analytics tool that combines resume parsing, ATS optimization, skill-gap detection, job-description matching, and salary prediction into a single browser-based platform — no backend server required. A Random Forest model, trained offline and exported to JSON, runs entirely in the browser to power salary predictions.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Flask, PySpark, SQLite, Pandas, Scikit-Learn, HTML, CSS, JavaScript, Chart.js |
-| **Scale** | Multi-dimensional analysis across job roles, industries, skills, locations, and salary datasets |
-| **Performance** | Automated processing and analysis of thousands of job market records in real time |
-| **Impact** | Provides actionable career insights, skill-gap analysis, salary intelligence, and workforce trend forecasting |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+| **Stack** | HTML5, CSS3, JavaScript, embedded Random Forest model (exported to JSON) |
+| **Architecture** | 100% client-side — no server, no backend dependency, model inference runs in-browser |
+| **Feature** | Resume parsing, ATS optimization scoring, skill-gap analysis, job-description matching, salary prediction |
+| **Impact** | Instant, private career insights with zero server round-trips or data leaving the browser |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/AI-Career-Intelligence) |
 
 </div>
 
-The platform is built on a Flask and PySpark analytics engine that processes large-scale AI and technology job market datasets, transforming raw workforce data into meaningful career intelligence. PySpark handles scalable data processing while Scikit-Learn powers predictive models for salary estimation and workforce trend analysis. Interactive dashboards built with Chart.js provide real-time visibility into hiring demand, salary benchmarks, automation risk, skill trends, and geographic opportunities. The system enables users to evaluate career readiness, identify high-demand skills, understand market dynamics, and make data-driven career decisions through a centralized analytics interface.
+The platform parses an uploaded resume directly in the browser, scores it against ATS conventions, and compares it against a target job description to surface missing or weak skills. Salary estimation is powered by a Random Forest regressor trained offline in Python and exported to a JSON representation that a lightweight JavaScript inference layer evaluates client-side — removing the need for a Flask/PySpark backend while keeping predictions fast and private.
 
 <br/>
 </details>
@@ -629,6 +665,7 @@ current_focus:
 
   building:
     - AI-enhanced analytics dashboards with LLM-driven insight narration
+    - LangChain-based conversational agents with tool-calling and confirmation gates
     - Automated ETL pipelines with Python and cloud-native tooling
     - NLP systems for domain-specific document intelligence
     - Computer Vision pipelines for real-world accessibility applications
