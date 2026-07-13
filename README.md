@@ -247,32 +247,6 @@ A Groq-powered (Llama 3.3 70B) Data Analyst Assistant streams natural-language a
 ---
 
 <details>
-<summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
-
-<br/>
-
-A production-ready healthcare document intelligence platform that combines OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of critical patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
-| **Scale** | 5,000+ patient records managed and structured |
-| **Performance** | 70% reduction in manual interpretation effort |
-| **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
-
-</div>
-
-The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
-
-<br/>
-</details>
-
----
-
-<details>
 <summary><strong>🧠 AI Career Intelligence Platform</strong></summary>
 
 <br/>
@@ -293,6 +267,32 @@ A fully client-side career analytics tool that combines resume parsing, ATS opti
 </div>
 
 The platform parses an uploaded resume directly in the browser, scores it against ATS conventions, and compares it against a target job description to surface missing or weak skills. Salary estimation is powered by a Random Forest regressor trained offline in Python and exported to a JSON representation that a lightweight JavaScript inference layer evaluates client-side — removing the need for a Flask/PySpark backend while keeping predictions fast and private.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
+
+<br/>
+
+A production-ready healthcare document intelligence platform that combines OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of critical patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
+| **Scale** | 5,000+ patient records managed and structured |
+| **Performance** | 70% reduction in manual interpretation effort |
+| **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+
+</div>
+
+The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
 
 <br/>
 </details>
