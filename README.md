@@ -54,7 +54,7 @@
 
 ## About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github&cache_seconds=86400" />
 
 I am a **Data & AI Analyst** with hands-on experience in Python, SQL, and end-to-end data analytics — from raw data ingestion to executive-level Power BI dashboards. My engineering foundation in **Computer Science with Artificial Intelligence** enables me to bridge the gap between data infrastructure and intelligent automation.
 
@@ -221,24 +221,25 @@ The application is built on a Django backend that manages order processing, sess
 
 <br/>
 
-An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built around a 7-step workflow — Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → PDF Report — that mirrors a modern analyst's process end to end.
+An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built around a 7-step workflow — Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report — that mirrors a modern analyst's process end to end.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Streamlit, Python, Pandas, NumPy, Plotly, ReportLab, SQLite, Groq (Llama 3.3 70B) |
+| **Stack** | Streamlit, Python, Pandas, NumPy, SciPy, Plotly, ReportLab, Groq (Llama 3.3 70B) |
 | **Scale** | Supports large structured datasets with automated profiling, cleaning, and analytics workflows |
 | **Performance** | Reduces manual exploratory analysis and reporting effort by up to 80% through automation |
+| **Privacy** | AI assistant never sees raw data — only a compressed JSON context (shape, stats, correlations) is sent to the LLM |
 | **Impact** | Enables users to uncover trends, detect anomalies, generate insights, and interact with data using natural language |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/DataLens_AI) |
-| **Live Demo** | [Try it here]() |
+| **Live Demo** | [Try it here](https://datalens-ai-xx.streamlit.app/) |
 
 </div>
 
-The platform is built on a modular Streamlit architecture that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive user interface. Pandas and NumPy power high-performance data processing, while Plotly delivers interactive dashboards and advanced visual analytics. A built-in analytics engine automatically identifies trends, correlations, outliers, and key business drivers, generating meaningful insights without requiring manual analysis.
+The platform is built on a modular Streamlit architecture (7 pages: Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report) that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive dark-themed UI. On upload, it auto-classifies the dataset type (Sales, HR, Finance, Marketing, Customer, Job Market) and computes a 0–100 data health score alongside missing-value heatmaps and duplicate detection. Pandas, NumPy, and SciPy power high-performance data processing and statistical analysis (correlation, skewness, kurtosis, IQR/Z-score outlier detection), while Plotly delivers interactive dashboards with live filters.
 
-A Groq-powered (Llama 3.3 70B) Data Analyst Assistant allows users to ask natural language questions about uploaded datasets, providing contextual explanations, recommendations, and executive-level summaries. The platform also uses ReportLab to generate professional, exportable PDF reports for decision-making and stakeholder communication.
+A Groq-powered (Llama 3.3 70B) Data Analyst Assistant streams natural-language answers about the uploaded dataset, backed by a rule-based offline engine as a fallback when no API key is configured. For privacy, the assistant is never given the raw dataset — only a compressed statistical context. The platform also uses ReportLab to generate professional, exportable PDF reports (executive summary, KPI tables, key findings, recommendations) for stakeholder communication.
 
 <br/>
 </details>
@@ -624,13 +625,13 @@ The solution transformed a manual reporting workflow into an automated analytics
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true&count_private=true&cache_seconds=86400" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthavishnu-kg&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthavishnu-kg&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthavishnu-kg&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideNums=C4B5FD&sideLabels=8B5CF6&dates=6D28D9" />
+  <img src="https://streak-stats.demolab.com/?user=ananthavishnu-kg&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideNums=C4B5FD&sideLabels=8B5CF6&dates=6D28D9" />
 </p>
 
 ---
