@@ -205,6 +205,7 @@ A full-stack café management application designed to simulate real-world café 
 | **Analytics** | Sales Trends, Product Performance, Customer Ordering Patterns |
 | **Database** | SQLite Relational Database |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
+| **Live Demo** | [Try it here](https://root11.pythonanywhere.com/) |
 
 </div>
 
@@ -231,6 +232,7 @@ An AI-powered data analysis workspace that transforms raw datasets into actionab
 | **Performance** | Reduces manual exploratory analysis and reporting effort by up to 80% through automation |
 | **Impact** | Enables users to uncover trends, detect anomalies, generate insights, and interact with data using natural language |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/DataLens_AI) |
+| **Live Demo** | [Try it here]() |
 
 </div>
 
@@ -285,6 +287,7 @@ A fully client-side career analytics tool that combines resume parsing, ATS opti
 | **Feature** | Resume parsing, ATS optimization scoring, skill-gap analysis, job-description matching, salary prediction |
 | **Impact** | Instant, private career insights with zero server round-trips or data leaving the browser |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/AI-Career-Intelligence) |
+| **Live Demo** | [Try it here](https://ananthavishnu-kg.github.io/AI-Career-Intelligence/) |
 
 </div>
 
