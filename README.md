@@ -54,7 +54,7 @@
 
 ## About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github&cache_seconds=86400" />
+<img align="right" width="340" src="https://github-stats-extended.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github&cache_seconds=86400" />
 
 I am a **Data & AI Analyst** with hands-on experience in Python, SQL, and end-to-end data analytics — from raw data ingestion to executive-level Power BI dashboards. My engineering foundation in **Computer Science with Artificial Intelligence** enables me to bridge the gap between data infrastructure and intelligent automation.
 
@@ -625,9 +625,9 @@ The solution transformed a manual reporting workflow into an automated analytics
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ananthavishnu-kg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true&count_private=true&cache_seconds=86400" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthavishnu-kg&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8&cache_seconds=86400" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ananthavishnu-kg&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
