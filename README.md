@@ -190,18 +190,19 @@ The FastAPI backend exposes chat and state endpoints and serves the static dashb
 ---
 
 <details>
-<summary><strong>☕ Koffinoor — Café Ordering & Analytics Platform</strong></summary>
+<summary><strong>☕ Koffinoor — Café Ordering Platform</strong></summary>
 
 <br/>
 
 A full-stack café ordering website built with Django, offering menu browsing, customer reviews/blog content, and an online ordering flow through a responsive web interface.
+
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Django, SQLite, HTML, CSS, JavaScript |
 | **Feature** | Menu browsing, online ordering, customer reviews/blog, about page |
-| **Database** | SQLite Relational Database |
+| **Database** | SQLite |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
 | **Live Demo** | [Try it here](https://root11.pythonanywhere.com/) |
 
@@ -245,6 +246,32 @@ A Groq-powered (Llama 3.3 70B) Data Analyst Assistant streams natural-language a
 ---
 
 <details>
+<summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
+
+<br/>
+
+A production-ready healthcare document intelligence platform that combines OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of critical patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
+| **Scale** | 5,000+ patient records managed and structured |
+| **Performance** | Targeted 70% reduction in manual interpretation effort *(self-reported, repo link pending verification)* |
+| **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+
+</div>
+
+The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
+
+<br/>
+</details>
+
+---
+
+<details>
 <summary><strong>🧠 AI Career Intelligence Platform</strong></summary>
 
 <br/>
@@ -272,32 +299,6 @@ The platform parses an uploaded resume directly in the browser, scores it agains
 ---
 
 <details>
-<summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
-
-<br/>
-
-A production-ready healthcare document intelligence platform that combines OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of critical patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
-| **Scale** | 5,000+ patient records managed and structured |
-| **Performance** | 70% reduction in manual interpretation effort |
-| **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
-
-</div>
-
-The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
-
-<br/>
-</details>
-
----
-
-<details>
 <summary><strong>🤖 AI Assistive System for Visually & Speech-Impaired Persons</strong></summary>
 
 <br/>
@@ -309,7 +310,7 @@ An accessibility-first AI platform that uses Computer Vision and NLP to interpre
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Python, OpenCV, Computer Vision, NLP, Google TTS |
-| **Accuracy** | 85% gesture and text interpretation accuracy |
+| **Accuracy** | Targeted 85% gesture and text interpretation accuracy *(self-reported, repo link pending verification)* |
 | **Impact** | Real-time voice output for accessible communication; reduced dependency on human assistance |
 | **Domain** | Assistive Technology / AI for Social Good |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
@@ -527,9 +528,8 @@ The solution transformed a manual reporting workflow into an automated analytics
 |----------------|---------|
 | **40% Reporting Efficiency Gain** | Automated Power BI dashboards eliminated manual KPI reporting cycles at Softloom IT Solutions |
 | **30% Data Quality Improvement** | Python-based data cleaning pipeline on 50,000+ records achieved measurable accuracy gains |
-| **70% Effort Reduction in Healthcare AI** | AI document processing system slashed manual interpretation time via OCR + NLP + TTS automation |
-| **85% Accuracy in Computer Vision** | Gesture and text recognition system for visually & speech-impaired users achieved 85% accuracy |
-| **25% Operational Efficiency Gain** | Café ordering platform backend improved simulated order processing efficiency by 25% |
+| **70% Effort Reduction in Healthcare AI** *(self-reported, repo not yet verified)* | AI document processing system aimed to reduce manual interpretation time via OCR + NLP + TTS automation |
+| **85% Accuracy in Computer Vision** *(self-reported, repo not yet verified)* | Gesture and text recognition system for visually & speech-impaired users targeted 85% interpretation accuracy |
 | **Academic Excellence** | Graduated BTech CSE with AI with CGPA of 8.00/10 from Jain University, Bengaluru |
 | **NSS Volunteer Leader** | Led community initiatives and social outreach programs under National Service Scheme |
 | **Junior Red Cross Leader** | Organised health awareness campaigns and community health support activities |
