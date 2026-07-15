@@ -194,22 +194,20 @@ The FastAPI backend exposes chat and state endpoints and serves the static dashb
 
 <br/>
 
-A full-stack café management application designed to simulate real-world café operations through digital ordering, cart management, inventory tracking, and business analytics. The platform combines customer-facing ordering workflows with backend reporting to provide insights into sales performance and product demand.
-
+A full-stack café ordering website built with Django, offering menu browsing, customer reviews/blog content, and an online ordering flow through a responsive web interface.
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Django, SQLite, HTML, CSS, JavaScript, Power BI |
-| **Feature** | Menu Management, Cart System, Order Processing, Customer Reviews |
-| **Analytics** | Sales Trends, Product Performance, Customer Ordering Patterns |
+| **Stack** | Django, SQLite, HTML, CSS, JavaScript |
+| **Feature** | Menu browsing, online ordering, customer reviews/blog, about page |
 | **Database** | SQLite Relational Database |
 | **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/Koffinoor) |
 | **Live Demo** | [Try it here](https://root11.pythonanywhere.com/) |
 
 </div>
 
-The application is built on a Django backend that manages order processing, session handling, and database operations through a responsive web interface. SQLite serves as the data layer for menu, order, and customer information, while Power BI dashboards provide visibility into revenue trends, popular products, peak ordering periods, and customer behavior. The project demonstrates full-stack application development combined with practical business analytics and reporting capabilities.
+The application is built on a Django backend that manages page routing, order flow, and session handling through a responsive web interface. SQLite serves as the data layer for menu and content. A Power BI analytics dashboard concept has been designed but is not yet integrated with live order data.
 
 <br/>
 </details>
