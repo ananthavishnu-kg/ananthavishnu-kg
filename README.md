@@ -163,6 +163,36 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 ## Featured Projects
 
 <details>
+<summary><strong>📊 DataLens AI — Interactive Data Analysis & Insight Generation Platform</strong></summary>
+
+<br/>
+
+An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built around a 7-step workflow — Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report — that mirrors a modern analyst's process end to end.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Streamlit, Python, Pandas, NumPy, SciPy, Plotly, ReportLab, Groq (Llama 3.3 70B) |
+| **Scale** | Supports large structured datasets with automated profiling, cleaning, and analytics workflows |
+| **Performance** | Reduces manual exploratory analysis and reporting effort by up to 80% through automation |
+| **Privacy** | AI assistant never sees raw data — only a compressed JSON context (shape, stats, correlations) is sent to the LLM |
+| **Impact** | Enables users to uncover trends, detect anomalies, generate insights, and interact with data using natural language |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/DataLens_AI) |
+| **Live Demo** | [Try it here](https://datalens-ai-xx.streamlit.app/) |
+
+</div>
+
+The platform is built on a modular Streamlit architecture (7 pages: Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report) that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive dark-themed UI. On upload, it auto-classifies the dataset type (Sales, HR, Finance, Marketing, Customer, Job Market) and computes a 0–100 data health score alongside missing-value heatmaps and duplicate detection. Pandas, NumPy, and SciPy power high-performance data processing and statistical analysis (correlation, skewness, kurtosis, IQR/Z-score outlier detection), while Plotly delivers interactive dashboards with live filters.
+
+A Groq-powered (Llama 3.3 70B) Data Analyst Assistant streams natural-language answers about the uploaded dataset, backed by a rule-based offline engine as a fallback when no API key is configured. For privacy, the assistant is never given the raw dataset — only a compressed statistical context. The platform also uses ReportLab to generate professional, exportable PDF reports (executive summary, KPI tables, key findings, recommendations) for stakeholder communication.
+
+<br/>
+</details>
+
+---
+
+<details>
 <summary><strong>🏢 Synapse ERP — AI-Powered ERP Assistant</strong></summary>
 
 <br/>
@@ -183,6 +213,33 @@ A conversational Enterprise Resource Planning assistant that lets users manage v
 </div>
 
 The FastAPI backend exposes chat and state endpoints and serves the static dashboard, while a LangChain agent ("Aria") interprets natural-language requests and calls a dedicated ERP tool layer for vendor and purchase-order operations. Every write action is staged and requires user confirmation before it executes, giving the system an explicit human-in-the-loop safety gate. The tool layer is intentionally decoupled from the mock in-memory backend so it can be repointed at a real SAP CAP system.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>🧠 AI Career Intelligence Platform</strong></summary>
+
+<br/>
+
+A fully client-side career analytics tool that combines resume parsing, ATS optimization, skill-gap detection, job-description matching, and salary prediction into a single browser-based platform — no backend server required. A Random Forest model, trained offline and exported to JSON, runs entirely in the browser to power salary predictions.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | HTML5, CSS3, JavaScript, embedded Random Forest model (exported to JSON) |
+| **Architecture** | 100% client-side — no server, no backend dependency, model inference runs in-browser |
+| **Feature** | Resume parsing, ATS optimization scoring, skill-gap analysis, job-description matching, salary prediction |
+| **Impact** | Instant, private career insights with zero server round-trips or data leaving the browser |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/AI-Career-Intelligence) |
+| **Live Demo** | [Try it here](https://ananthavishnu-kg.github.io/AI-Career-Intelligence/) |
+
+</div>
+
+The platform parses an uploaded resume directly in the browser, scores it against ATS conventions, and compares it against a target job description to surface missing or weak skills. Salary estimation is powered by a Random Forest regressor trained offline in Python and exported to a JSON representation that a lightweight JavaScript inference layer evaluates client-side — removing the need for a Flask/PySpark backend while keeping predictions fast and private.
 
 <br/>
 </details>
@@ -215,35 +272,8 @@ The application is built on a Django backend that manages page routing, order fl
 
 ---
 
-<details>
-<summary><strong>📊 DataLens AI — Interactive Data Analysis & Insight Generation Platform</strong></summary>
-
-<br/>
-
-An AI-powered data analysis workspace that transforms raw datasets into actionable insights through automated profiling, interactive visualizations, statistical analysis, and conversational analytics. Built around a 7-step workflow — Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report — that mirrors a modern analyst's process end to end.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Streamlit, Python, Pandas, NumPy, SciPy, Plotly, ReportLab, Groq (Llama 3.3 70B) |
-| **Scale** | Supports large structured datasets with automated profiling, cleaning, and analytics workflows |
-| **Performance** | Reduces manual exploratory analysis and reporting effort by up to 80% through automation |
-| **Privacy** | AI assistant never sees raw data — only a compressed JSON context (shape, stats, correlations) is sent to the LLM |
-| **Impact** | Enables users to uncover trends, detect anomalies, generate insights, and interact with data using natural language |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/DataLens_AI) |
-| **Live Demo** | [Try it here](https://datalens-ai-xx.streamlit.app/) |
-
-</div>
-
-The platform is built on a modular Streamlit architecture (7 pages: Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report) that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive dark-themed UI. On upload, it auto-classifies the dataset type (Sales, HR, Finance, Marketing, Customer, Job Market) and computes a 0–100 data health score alongside missing-value heatmaps and duplicate detection. Pandas, NumPy, and SciPy power high-performance data processing and statistical analysis (correlation, skewness, kurtosis, IQR/Z-score outlier detection), while Plotly delivers interactive dashboards with live filters.
-
-A Groq-powered (Llama 3.3 70B) Data Analyst Assistant streams natural-language answers about the uploaded dataset, backed by a rule-based offline engine as a fallback when no API key is configured. For privacy, the assistant is never given the raw dataset — only a compressed statistical context. The platform also uses ReportLab to generate professional, exportable PDF reports (executive summary, KPI tables, key findings, recommendations) for stakeholder communication.
-
-<br/>
-</details>
-
----
+### Additional Projects
+*(repositories pending public release — details below are self-reported)*
 
 <details>
 <summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
@@ -265,33 +295,6 @@ A production-ready healthcare document intelligence platform that combines OCR, 
 </div>
 
 The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><strong>🧠 AI Career Intelligence Platform</strong></summary>
-
-<br/>
-
-A fully client-side career analytics tool that combines resume parsing, ATS optimization, skill-gap detection, job-description matching, and salary prediction into a single browser-based platform — no backend server required. A Random Forest model, trained offline and exported to JSON, runs entirely in the browser to power salary predictions.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | HTML5, CSS3, JavaScript, embedded Random Forest model (exported to JSON) |
-| **Architecture** | 100% client-side — no server, no backend dependency, model inference runs in-browser |
-| **Feature** | Resume parsing, ATS optimization scoring, skill-gap analysis, job-description matching, salary prediction |
-| **Impact** | Instant, private career insights with zero server round-trips or data leaving the browser |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/AI-Career-Intelligence) |
-| **Live Demo** | [Try it here](https://ananthavishnu-kg.github.io/AI-Career-Intelligence/) |
-
-</div>
-
-The platform parses an uploaded resume directly in the browser, scores it against ATS conventions, and compares it against a target job description to surface missing or weak skills. Salary estimation is powered by a Random Forest regressor trained offline in Python and exported to a JSON representation that a lightweight JavaScript inference layer evaluates client-side — removing the need for a Flask/PySpark backend while keeping predictions fast and private.
 
 <br/>
 </details>
@@ -524,16 +527,34 @@ The solution transformed a manual reporting workflow into an automated analytics
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|----------------|---------|
+**🏆 Professional & Project Impact**
+
+| Achievement | Details |
+|-------------|---------|
 | **40% Reporting Efficiency Gain** | Automated Power BI dashboards eliminated manual KPI reporting cycles at Softloom IT Solutions |
 | **30% Data Quality Improvement** | Python-based data cleaning pipeline on 50,000+ records achieved measurable accuracy gains |
-| **70% Effort Reduction in Healthcare AI** *(self-reported, repo not yet verified)* | AI document processing system aimed to reduce manual interpretation time via OCR + NLP + TTS automation |
-| **85% Accuracy in Computer Vision** *(self-reported, repo not yet verified)* | Gesture and text recognition system for visually & speech-impaired users targeted 85% interpretation accuracy |
-| **Academic Excellence** | Graduated BTech CSE with AI with CGPA of 8.00/10 from Jain University, Bengaluru |
+| **70% Effort Reduction in Healthcare AI**¹ | AI document processing system aimed to reduce manual interpretation time via OCR + NLP + TTS automation |
+| **85% Accuracy in Computer Vision**¹ | Gesture and text recognition system for visually & speech-impaired users targeted 85% interpretation accuracy |
+
+<sub>¹ Self-reported project metric — repository not yet public for independent verification.</sub>
+
+<br/>
+
+**🎓 Academic Excellence**
+
+| Achievement | Details |
+|-------------|---------|
+| **BTech CSE with AI — 8.00/10 CGPA** | Jain University, Bengaluru |
+| **MBA in Business Analytics** *(in progress)* | Amity University — expanding strategic and analytical leadership capabilities |
+
+<br/>
+
+**🤝 Leadership & Community**
+
+| Role | Details |
+|------|---------|
 | **NSS Volunteer Leader** | Led community initiatives and social outreach programs under National Service Scheme |
 | **Junior Red Cross Leader** | Organised health awareness campaigns and community health support activities |
-| **MBA in Progress** | Pursuing Business Analytics MBA at Amity University — expanding strategic and analytical leadership capabilities |
 
 </div>
 
@@ -605,18 +626,22 @@ The solution transformed a manual reporting workflow into an automated analytics
 <tr>
 <td align="center">
 
-<strong>NVIDIA</strong><br>
-<img src="https://img.shields.io/badge/NVIDIA-GTC%20Participation-7C3AED?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-</td>
-<td align="center">
-
 <strong>OneRoadmap</strong><br>
 <img src="https://img.shields.io/badge/OneRoadmap-Data%20Analyst-7C3AED?style=for-the-badge&logo=chart-bar&logoColor=white" />
 
 </td>
+<td align="center">
+
+<strong>Amity University Online</strong><br>
+<img src="https://img.shields.io/badge/Amity%20University%20Online-Advanced%20Excel-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+</td>
 </tr>
 </table>
+
+**Also completed (Amity University Online, MBA coursework):** Basics of Artificial Intelligence, Leadership & Motivation in Organizations, Strategic Human Resource Management, Principles of Retailing, Professional & Life Skills, Basic Mathematics
+
+**Events & Conferences:** NVIDIA GTC (attendee)
 
 ---
 
