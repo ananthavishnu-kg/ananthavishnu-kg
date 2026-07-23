@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="ananthavishnu-kg.github.io/portfolio/" target="_blank">
+  <a href="https://ananthavishnu-kg.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
@@ -731,7 +731,7 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="ananthavishnu-kg.github.io/portfolio/">
+  <a href="https://ananthavishnu-kg.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-ananthavishnu--kg.github.io-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
