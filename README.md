@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MBA-Business%20Analytics%20%40%20Amity%20University-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MBA-Amity%20University-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/BTech-CSE%20with%20AI%20%40%20Jain%20University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
   &nbsp;
@@ -60,7 +60,7 @@ I am a **Data & AI Analyst** with hands-on experience in Python, SQL, and end-to
 
 At **Softloom IT Solutions**, I built production-grade analytics pipelines, processed 50,000+ records with measurable accuracy gains, and reduced manual reporting cycles by 40% through dashboard automation. My work spans **exploratory data analysis**, **NLP-based document processing**, **computer vision**, **machine learning**, **AI agent development**, and **full-stack data application development**.
 
-I approach every problem with a **product engineering mindset** — obsessed with outcome metrics, scalability, and delivering insights that drive real business decisions. Currently pursuing an **MBA in Business Analytics** at Amity University to sharpen my strategic thinking alongside technical depth.
+I approach every problem with a **product engineering mindset** — obsessed with outcome metrics, scalability, and delivering insights that drive real business decisions. Currently pursuing an **MBA** at Amity University to sharpen my strategic thinking alongside technical depth.
 
 **Open To:**
 - Data Analyst / Data Engineer roles
@@ -273,14 +273,14 @@ The application is built on a Django backend that manages page routing, order fl
 ---
 
 ### Additional Projects
-*(repositories pending public release — details below are self-reported)*
+*(in progress — repositories not yet public; stats below are self-reported and unverified)*
 
 <details>
 <summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
 
 <br/>
 
-A production-ready healthcare document intelligence platform that combines OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of critical patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
+A healthcare document intelligence project in progress, combining OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
 
 <div align="center">
 
@@ -288,9 +288,9 @@ A production-ready healthcare document intelligence platform that combines OCR, 
 |-----------|---------|
 | **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
 | **Scale** | 5,000+ patient records managed and structured |
-| **Performance** | Targeted 70% reduction in manual interpretation effort *(self-reported, repo link pending verification)* |
+| **Performance** | Targeting a 70% reduction in manual interpretation effort *(self-reported, not yet independently verified)* |
 | **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+| **Repository** | Not yet public |
 
 </div>
 
@@ -306,17 +306,17 @@ The system leverages Tesseract OCR to extract raw text from scanned healthcare d
 
 <br/>
 
-An accessibility-first AI platform that uses Computer Vision and NLP to interpret gestures and extract text from visual inputs, enabling real-time voice-based interaction for visually and speech-impaired users. Built to demonstrate how AI can bridge communication gaps and improve daily life outcomes.
+An accessibility-first AI project in progress, using Computer Vision and NLP to interpret gestures and extract text from visual inputs, enabling real-time voice-based interaction for visually and speech-impaired users.
 
 <div align="center">
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Python, OpenCV, Computer Vision, NLP, Google TTS |
-| **Accuracy** | Targeted 85% gesture and text interpretation accuracy *(self-reported, repo link pending verification)* |
+| **Accuracy** | Targeting 85% gesture and text interpretation accuracy *(self-reported, not yet independently verified)* |
 | **Impact** | Real-time voice output for accessible communication; reduced dependency on human assistance |
 | **Domain** | Assistive Technology / AI for Social Good |
-| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg) |
+| **Repository** | Not yet public |
 
 </div>
 
@@ -533,10 +533,6 @@ The solution transformed a manual reporting workflow into an automated analytics
 |-------------|---------|
 | **40% Reporting Efficiency Gain** | Automated Power BI dashboards eliminated manual KPI reporting cycles at Softloom IT Solutions |
 | **30% Data Quality Improvement** | Python-based data cleaning pipeline on 50,000+ records achieved measurable accuracy gains |
-| **70% Effort Reduction in Healthcare AI**¹ | AI document processing system aimed to reduce manual interpretation time via OCR + NLP + TTS automation |
-| **85% Accuracy in Computer Vision**¹ | Gesture and text recognition system for visually & speech-impaired users targeted 85% interpretation accuracy |
-
-<sub>¹ Self-reported project metric — repository not yet public for independent verification.</sub>
 
 <br/>
 
@@ -545,7 +541,7 @@ The solution transformed a manual reporting workflow into an automated analytics
 | Achievement | Details |
 |-------------|---------|
 | **BTech CSE with AI — 8.00/10 CGPA** | Jain University, Bengaluru |
-| **MBA in Business Analytics** *(in progress)* | Amity University — expanding strategic and analytical leadership capabilities |
+| **MBA** *(in progress)* | Amity University — expanding strategic and analytical leadership capabilities |
 
 <br/>
 
