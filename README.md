@@ -33,12 +33,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:ananthuuofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://github.com/ananthavishnu-kg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:ananthuuofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ananthuuofficial%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
