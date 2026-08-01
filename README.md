@@ -146,7 +146,7 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| **Natural Language Processing** | ⬛⬛⬛⬛⬜ Advanced | Text preprocessing, tokenization, entity extraction, language translation |
+| **Natural Language Processing** | ⬛⬛⬛⬛⬜ Advanced | Text preprocessing, tokenization, entity extraction (regex + spaCy NER), language translation |
 | **Machine Learning** | ⬛⬛⬛⬜⬜ Intermediate | Regression, Classification, Clustering, Scikit-learn, RMSE, R² evaluation |
 | **Computer Vision** | ⬛⬛⬛⬜⬜ Intermediate | OpenCV, Image Processing, Pattern Recognition, Gesture Interpretation |
 | **Deep Learning** | ⬛⬛⬛⬜⬜ Intermediate | TensorFlow, PyTorch, CNN fundamentals |
@@ -154,7 +154,7 @@ I approach every problem with a **product engineering mindset** — obsessed wit
 | **Data Pipeline Engineering** | ⬛⬛⬛⬛⬜ Advanced | ETL workflows, Python automation, SQL query optimization |
 | **Business Intelligence** | ⬛⬛⬛⬛⬜ Advanced | KPI dashboarding, Power BI, executive reporting, data storytelling |
 | **AI Agent Development** | ⬛⬛⬛⬜⬜ Intermediate | LangChain tool-calling agents, Groq-hosted LLMs, confirmation-gated automation |
-| **AI Model Integration** | ⬛⬛⬛⬜⬜ Intermediate | OCR integration, Google TTS, API-based AI services |
+| **AI Model Integration** | ⬛⬛⬛⬛⬜ Advanced | OCR + spaCy NER pipelines, Groq-powered summarization/Q&A, Google TTS, API-based AI services |
 | **Prompt Engineering** | ⬛⬛⬛⬛⬜ Advanced | LLM interaction design, structured output generation, chain-of-thought prompting |
 
 </div>
@@ -187,6 +187,33 @@ An AI-powered data analysis workspace that transforms raw datasets into actionab
 The platform is built on a modular Streamlit architecture (7 pages: Upload → Profile → Clean → Dashboard → Analytics → AI Assistant → Report) that orchestrates data ingestion, profiling, cleaning, visualization, and reporting workflows through an intuitive dark-themed UI. On upload, it auto-classifies the dataset type (Sales, HR, Finance, Marketing, Customer, Job Market) and computes a 0–100 data health score alongside missing-value heatmaps and duplicate detection. Pandas, NumPy, and SciPy power high-performance data processing and statistical analysis (correlation, skewness, kurtosis, IQR/Z-score outlier detection), while Plotly delivers interactive dashboards with live filters.
 
 A Groq-powered (Llama 3.3 70B) Data Analyst Assistant streams natural-language answers about the uploaded dataset, backed by a rule-based offline engine as a fallback when no API key is configured. For privacy, the assistant is never given the raw dataset — only a compressed statistical context. The platform also uses ReportLab to generate professional, exportable PDF reports (executive summary, KPI tables, key findings, recommendations) for stakeholder communication.
+
+<br/>
+</details>
+
+---
+
+<details>
+<summary><strong>🏥 Medical Document Processor — OCR, NLP & AI Document Intelligence Pipeline</strong></summary>
+
+<br/>
+
+A healthcare document intelligence pipeline combining OCR, NLP, and generative AI to automate the extraction, translation, summarization, and voice output of patient information from unstructured medical records — deployed live as both a desktop app and a public web app.
+
+<div align="center">
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python, Tesseract OCR, spaCy (NER), Groq (Llama 3.3 70B), Streamlit, CustomTkinter, SQLite, Google TTS |
+| **Feature** | 3-pass entity extraction (regex → spaCy NER → fuzzy fallback), AI plain-language summaries, conversational Q&A assistant, 6-language translation, automated pytest suite |
+| **Performance** | Targeting a 70% reduction in manual interpretation effort *(self-reported, validated on a small set of real documents — not yet at production scale)* |
+| **Impact** | Multilingual medical record accessibility, AI-generated summaries, conversational record Q&A, and voice-output-enabled clinical workflows |
+| **Repository** | [View on GitHub](https://github.com/ananthavishnu-kg/medical-doc-processor) |
+| **Live Demo** | [Try it here](https://medical-document-assister.streamlit.app/) |
+
+</div>
+
+The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a three-pass NLP pipeline — strict pattern matching, spaCy named-entity recognition for unlabeled names, and fuzzy fallback matching for OCR-mangled labels — to structure patient data. A Groq-hosted LLM generates plain-language summaries and powers a conversational assistant for asking questions about a record, while Google Translate and Google Text-to-Speech make output accessible across six languages and by voice. The extraction pipeline is backed by an automated pytest suite, including regression tests for real bugs caught during development.
 
 <br/>
 </details>
@@ -275,32 +302,6 @@ The application is built on a Django backend that manages page routing, order fl
 
 ### Additional Projects
 *(in progress — repositories not yet public; stats below are self-reported and unverified)*
-
-<details>
-<summary><strong>🏥 AI-Based Medical Document Processing System</strong></summary>
-
-<br/>
-
-A healthcare document intelligence project in progress, combining OCR, NLP, and voice synthesis to automate the extraction, translation, and storage of patient information from unstructured medical records. Designed to reduce manual clinical documentation effort and improve accessibility across language barriers.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, Tesseract OCR, NLP, Tkinter, SQLite, Google TTS |
-| **Scale** | 5,000+ patient records managed and structured |
-| **Performance** | Targeting a 70% reduction in manual interpretation effort *(self-reported, not yet independently verified)* |
-| **Impact** | Multilingual medical record accessibility; voice-output-enabled clinical workflows |
-| **Repository** | Not yet public |
-
-</div>
-
-The system leverages Tesseract OCR to extract raw text from scanned healthcare documents, followed by a preprocessing pipeline that normalizes, tokenizes, and entity-tags clinical data using NLP techniques. Language translation enables cross-lingual record management, while Google Text-to-Speech converts structured output into voice responses — making information accessible to patients and clinicians regardless of language or literacy level.
-
-<br/>
-</details>
-
----
 
 <details>
 <summary><strong>🤖 AI Assistive System for Visually & Speech-Impaired Persons</strong></summary>
